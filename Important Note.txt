@@ -1,0 +1,4 @@
+This darft code introduces the concept of Global Residual Blocks into the model (InceptionResNetV2) architecture.
+Please, pay attention to the model summary as it has the full details about the modified layers inside this model.
+They were used to maintain the spatial correlation between features on different magnification levels at higher dimensions.
+This is better explained and illustrated in the files contained within this folder.  
